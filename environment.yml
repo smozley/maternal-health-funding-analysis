@@ -1,0 +1,12 @@
+name: maternal-health-env
+dependencies:
+  - python=3.10
+  - pandas
+  - geopandas
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - scikit-learn
+  - esda
+  - contextily
+  - jupyter
